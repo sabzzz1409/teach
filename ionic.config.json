@@ -1,0 +1,7 @@
+{
+  "name": "mom-pay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
